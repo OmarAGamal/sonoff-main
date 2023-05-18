@@ -1,0 +1,2 @@
+# sonoff-main
+sonoff addon
